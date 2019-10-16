@@ -382,7 +382,7 @@ msgstr "mi/h"
 
 #. cinnamon-weather->settings-schema.json->showCommentInPanel->description
 msgid "Show the weather condition (e.g., \"Windy\", \"Clear\") in the panel"
-msgstr "Mostrar a condição do tempo (exemplos, \ "Ventoso \", \ "Limpar \") no painel"
+msgstr "Mostrar a condição do tempo (ex., \ "Nublado \", \ "Limpo \") no painel"
 
 #. cinnamon-weather->settings-schema.json->pressureUnit->description
 #, fuzzy
@@ -442,14 +442,14 @@ msgstr "Veja sua previsão do tempo local"
 msgid "Weather"
 msgstr "Clima"
 
-#~ msgid "Show 5-day forecast"
-#~ msgstr "Mostrar previsão de 5 dias"
+msgid "Show 5-day forecast"
+msgstr "Mostrar previsão de 5 dias"
 
-#~ msgid "Please wait"
-#~ msgstr "Por favor, aguarde"
+msgid "Please wait"
+msgstr "Por favor, aguarde"
 
-#~ msgid "Today"
-#~ msgstr "Hoje"
+msgid "Today"
+msgstr "Hoje"
 
-#~ msgid "Tomorrow"
-#~ msgstr "Amanhã"
+msgid "Tomorrow"
+msgstr "Amanhã"
